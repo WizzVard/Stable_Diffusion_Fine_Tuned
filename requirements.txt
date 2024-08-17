@@ -1,0 +1,6 @@
+PyYAML~=6.0.2
+python-dotenv~=1.0.1
+pyprojroot~=0.3.0
+aiohttp~=3.10.2
+chainlit~=1.1.402
+requests~=2.32.3
