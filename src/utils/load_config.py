@@ -1,13 +1,3 @@
-# requirements
-# pip install python-dotenv
-# pip install pyprojroot
-# pip install pyyaml
-# pip install requests
-# pip install pillow
-# pip install matplotlib
-# pip install chainlit
-# pip install aiohttp
-
 from dotenv import load_dotenv
 from pyprojroot import here
 from typing import List
